@@ -1,0 +1,12 @@
+C:\Projetos\GICM\GICM.Domain\bin\Debug\net6.0\GICM.Domain.deps.json
+C:\Projetos\GICM\GICM.Domain\bin\Debug\net6.0\GICM.Domain.dll
+C:\Projetos\GICM\GICM.Domain\bin\Debug\net6.0\GICM.Domain.pdb
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.csproj.AssemblyReference.cache
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.AssemblyInfoInputs.cache
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.AssemblyInfo.cs
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.dll
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\refint\GICM.Domain.dll
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\GICM.Domain.pdb
+C:\Projetos\GICM\GICM.Domain\obj\Debug\net6.0\ref\GICM.Domain.dll

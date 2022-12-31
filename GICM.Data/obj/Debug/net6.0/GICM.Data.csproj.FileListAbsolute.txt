@@ -1,0 +1,17 @@
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Data.deps.json
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Data.dll
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Data.pdb
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.csproj.AssemblyReference.cache
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.AssemblyInfoInputs.cache
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.AssemblyInfo.cs
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.dll
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\refint\GICM.Data.dll
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.pdb
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\ref\GICM.Data.dll
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Data.runtimeconfig.json
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Domain.dll
+C:\Projetos\GICM\GICM.Data\bin\Debug\net6.0\GICM.Domain.pdb
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.csproj.CopyComplete
+C:\Projetos\GICM\GICM.Data\obj\Debug\net6.0\GICM.Data.genruntimeconfig.cache
